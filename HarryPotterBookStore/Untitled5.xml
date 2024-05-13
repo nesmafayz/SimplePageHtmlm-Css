@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TraineeAffairs xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="file:///C:/Nesma%20Fayez%20Mohamed/new%20pro/Untitled3.xsd">
+	<Trainee Name="basma" Age="23" Group="group1">
+		<Address Governorate="Minia" Street="el nahda st" ZipCode="61111"/>
+		<Phone>1234567</Phone>
+		<Phone>0100784</Phone>
+		<CourseResult CourseName="xml" TraineeGrade="B"/>
+	</Trainee>
+	<Trainee Group="group1" Age="22" Name="Ahmed">
+		<Address Governorate="Assuit" Street="Helaly" ZipCode="71111"/>
+		<CourseResult TraineeGrade="B" CourseName="C#"/>
+	</Trainee>
+</TraineeAffairs>
